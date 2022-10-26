@@ -16,6 +16,14 @@ Conjunto de datos “Basketball data set” disponible en: https://sci2s.ugr.es/
 ## datos:
 https://sci2s.ugr.es/keel/dataset.php?cod=1293sub1
 
+This data set contains a series of statistics (5 attributes) about 96 basketball players:
+
+1) assists_per_minuteReal: average number of assistances per minute.
+2) heightInteger: height of the player.
+3) time_playedReal: time played by the player.
+4) ageInteger: number of years of the player.
+5) points_per_minuteReal: average number of points per minute.
+
 ## Requerimientos
 
 
